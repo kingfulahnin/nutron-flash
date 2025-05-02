@@ -1,0 +1,149 @@
+{
+  "generators": [
+    {
+      "name": "Mr. Booda Jones",
+      "tier": "Generator",
+      "frequency": "Flow",
+      "role": "Bassline Sorcerer"
+    },
+    {
+      "name": "The Architect of Funk",
+      "tier": "Generator",
+      "frequency": "Structure",
+      "role": "Cosmic Constructor"
+    },
+    {
+      "name": "StarChild",
+      "tier": "Generator",
+      "frequency": "Light",
+      "role": "Intergalactic Love Ray"
+    },
+    {
+      "name": "Sir Nose (Devoid of Funk)",
+      "tier": "Generator",
+      "frequency": "Disruption",
+      "role": "Shadow Agent"
+    },
+    {
+      "name": "Uncle Jam",
+      "tier": "Generator",
+      "frequency": "Healing",
+      "role": "Groove Healer"
+    },
+    {
+      "name": "Prophet Voice",
+      "tier": "Generator",
+      "frequency": "Voice",
+      "role": "Soul Speaker"
+    },
+    {
+      "name": "Seventh Spark",
+      "tier": "Generator",
+      "frequency": "Unknown",
+      "role": "Mythic Placeholder"
+    }
+  ],
+  "cosmic_deck": [
+    {
+      "name": "Dr. Funkenstein",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "The Architect of Funk",
+        "Prophet Voice"
+      ],
+      "role": "Groove Creator"
+    },
+    {
+      "name": "Bootzilla",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Mr. Booda Jones"
+      ],
+      "role": "Bass Commander"
+    },
+    {
+      "name": "Mr. Wiggles",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "StarChild",
+        "Uncle Jam"
+      ],
+      "role": "Dancewave Diplomat"
+    },
+    {
+      "name": "The Worm",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Mr. Booda Jones",
+        "Uncle Jam"
+      ],
+      "role": "Transformation Agent"
+    },
+    {
+      "name": "The Wizard of Woo",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "StarChild",
+        "The Architect of Funk"
+      ],
+      "role": "Sound Mage"
+    },
+    {
+      "name": "The Savior",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Prophet Voice"
+      ],
+      "role": "Funkadelic Messiah"
+    },
+    {
+      "name": "Lollipop Man",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Sir Nose"
+      ],
+      "role": "Trickster"
+    },
+    {
+      "name": "Loard Veto",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Sir Nose"
+      ],
+      "role": "Restrictor"
+    },
+    {
+      "name": "Bones Flyte",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Prophet Voice",
+        "The Architect of Funk"
+      ],
+      "role": "Beat Courier"
+    },
+    {
+      "name": "The Watcher",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Unknown"
+      ],
+      "role": "Multiversal Observer"
+    },
+    {
+      "name": "The Archivist",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Prophet Voice"
+      ],
+      "role": "Memory Keeper"
+    },
+    {
+      "name": "The Shadow Circuit",
+      "tier": "Cosmic Deck",
+      "linked_to": [
+        "Sir Nose"
+      ],
+      "role": "Subconscious Disruptor"
+    }
+  ]
+}

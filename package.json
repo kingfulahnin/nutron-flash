@@ -1,0 +1,35 @@
+{
+  "name": "nutron-verse",
+  "version": "1.0.0",
+  "description": "A lore-driven XP system and tone-secured visual engine for the Nutron Universe.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "socket.io-client": "^4.7.2",
+    "axios": "^1.6.0",
+    "framer-motion": "^10.12.16"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-next": "latest"
+  },
+  "keywords": [
+    "XP",
+    "React",
+    "Next.js",
+    "Lore",
+    "Leroy",
+    "Metaphor System",
+    "Visual Engine"
+  ],
+  "author": "Architect #2",
+  "license": "MIT"
+}

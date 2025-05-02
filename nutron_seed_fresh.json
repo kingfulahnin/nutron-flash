@@ -1,0 +1,96 @@
+[
+    {
+        "name": "M.C.D.K.",
+        "alias": "Mr. Crazy Da Kamilion",
+        "role": "Producer, silent genius, system creator",
+        "symbol": "Cliff Notes",
+        "wears": [
+            "Cliff Notes",
+            "MacBook"
+        ],
+        "location": "Studio",
+        "speaks": false,
+        "energy": "Most Can't Recognize a Zealot Devouring and Killing a Million Ill Lyrics in One Notion"
+    },
+    {
+        "name": "HW",
+        "alias": "HollyWood",
+        "role": "Recording artist",
+        "symbol": "Bunny",
+        "wears": [
+            "Bunny motifs"
+        ],
+        "location": "Studio",
+        "energy": "Raw, emotional, creative"
+    },
+    {
+        "name": "3Elvis",
+        "role": "Lyricist, bar craftsman",
+        "location": "Studio",
+        "action": "Writing verses",
+        "energy": "Focused, soulful"
+    },
+    {
+        "name": "Crazyman",
+        "role": "Unpredictable chaos agent, brand mascot",
+        "symbol": "Electric bunny pendant",
+        "wears": [
+            "Straightjacket",
+            "Chains"
+        ],
+        "location": "Studio or Soul Syncer",
+        "energy": "Wild genius"
+    },
+    {
+        "name": "The Doctor",
+        "role": "Lab engineer of soul frequency",
+        "location": "Soul Syncer Lab",
+        "tools": [
+            "Soul Syncer Chamber",
+            "Energy Scanners"
+        ],
+        "monitors": [
+            "HW",
+            "M.C.D.K.",
+            "3Elvis",
+            "Crazyman",
+            "Starchild",
+            "Sir Nose"
+        ]
+    },
+    {
+        "name": "Sir Nose D\u2019Voidoffunk",
+        "role": "Former enemy of funk",
+        "energy": "Resistant to rhythm",
+        "location": "Soul Syncer (being monitored)"
+    },
+    {
+        "name": "Sir FunkIsInHisBlood",
+        "role": "Reborn Nose with funk in his DNA",
+        "location": "Children of Production",
+        "symbol": "Groovewave aura",
+        "energy": "Converted funk vessel"
+    },
+    {
+        "name": "Starchild",
+        "role": "Deliverer of the Funk",
+        "symbol": "Bop Gun, Mothership",
+        "energy": "Lightbearer, liberator",
+        "location": "Funk Realm"
+    },
+    {
+        "name": "Bootzilla",
+        "role": "Funk Superhero, Bass Warrior",
+        "symbol": "Boots, Bass Guitar",
+        "energy": "Supercharged rhythm",
+        "location": "Funk frontline"
+    },
+    {
+        "name": "Cliff",
+        "alias": "The Real Craze",
+        "role": "Architect, Seer, Living Blueprint",
+        "symbol": "Cliff Notes (Scroll + Clock)",
+        "appearance": "Doughboy face + Crazyman aura",
+        "location": "Present through all \u2014 origin signal"
+    }
+]

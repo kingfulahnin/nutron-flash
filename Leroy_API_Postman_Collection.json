@@ -1,0 +1,117 @@
+{
+    "info": {
+        "name": "Leroy API Collection",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Leroy Summary",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:3000/api/leroy/summary",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "3000",
+                    "path": [
+                        "api",
+                        "leroy",
+                        "summary"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Leroy Echoes",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:3000/api/leroy/echoes",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "3000",
+                    "path": [
+                        "api",
+                        "leroy",
+                        "echoes"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Leroy Residue",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:3000/api/leroy/residue",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "3000",
+                    "path": [
+                        "api",
+                        "leroy",
+                        "residue"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Leroy Scroll",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:3000/api/leroy/scroll",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "3000",
+                    "path": [
+                        "api",
+                        "leroy",
+                        "scroll"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Check Tone",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json"
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\n  \"text\": \"This is a test of the funk and soul tone integrity.\"\n}"
+                },
+                "url": {
+                    "raw": "http://localhost:3000/api/leroy/check-tone",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "3000",
+                    "path": [
+                        "api",
+                        "leroy",
+                        "check-tone"
+                    ]
+                }
+            }
+        }
+    ]
+}

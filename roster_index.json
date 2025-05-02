@@ -1,0 +1,114 @@
+{
+  "characters": [
+    {
+      "name": "Kael Wavemaker",
+      "firstSeen": "MergeMapOverview.jsx",
+      "worlds": [
+        "Kaiju-11",
+        "Nexus Grid"
+      ],
+      "mergeThreads": [
+        "MERGE-001"
+      ],
+      "archetype": "Echo Soul",
+      "notes": "Echo alt: K-11 Echo"
+    },
+    {
+      "name": "Script Vanta",
+      "firstSeen": "MergeMapOverview.jsx",
+      "worlds": [
+        "Mothership Domain"
+      ],
+      "mergeThreads": [
+        "MERGE-002"
+      ],
+      "archetype": "Sovereign Caster",
+      "notes": "Has dormant thread Z3"
+    },
+    {
+      "name": "LLC Origin",
+      "firstSeen": "lore_index.md / FunkThread",
+      "worlds": [
+        "Funkline Ruins"
+      ],
+      "archetype": "Rhythm Prophet",
+      "notes": "Artist + Sovereign class"
+    },
+    {
+      "name": "Jax",
+      "firstSeen": "VerseLineSyncBoard.jsx",
+      "worlds": [
+        "Streetcode Core"
+      ],
+      "archetype": "Urban Flame",
+      "notes": "Active thread A1"
+    },
+    {
+      "name": "Cleo",
+      "firstSeen": "VerseLineSyncBoard.jsx",
+      "worlds": [
+        "Streetcode Core"
+      ],
+      "archetype": "Funk Seer",
+      "notes": "Tied to Funkline collapse"
+    }
+  ],
+  "worlds": [
+    {
+      "name": "Streetcode Core",
+      "type": "Urban XP Zone",
+      "threads": [
+        "Thread-A1",
+        "Z3"
+      ],
+      "firstSeen": "XP Modules + Grid Systems"
+    },
+    {
+      "name": "Kaiju-11",
+      "type": "High-Risk Zone",
+      "threads": [
+        "MERGE-001"
+      ],
+      "firstSeen": "MergeMap + characterSync"
+    },
+    {
+      "name": "Funkline Ruins",
+      "type": "Legacy World",
+      "threads": [
+        "Thread-Z3"
+      ],
+      "firstSeen": "AvatarLore / Music Routes"
+    },
+    {
+      "name": "Mothership Domain",
+      "type": "Lore Control Hub",
+      "threads": [
+        "mentorXPBoost",
+        "MergeMap"
+      ],
+      "firstSeen": "Mentor Logic"
+    }
+  ],
+  "archetypes": [
+    {
+      "name": "Code Whisperer",
+      "class": "Initiate",
+      "examples": [],
+      "thread": null
+    },
+    {
+      "name": "Memory Warrior",
+      "class": "Ascendant",
+      "examples": [],
+      "thread": null
+    },
+    {
+      "name": "Rhythm Prophet",
+      "class": "Sovereign",
+      "examples": [
+        "LLC Origin"
+      ],
+      "thread": "Thread-Z3"
+    }
+  ]
+}

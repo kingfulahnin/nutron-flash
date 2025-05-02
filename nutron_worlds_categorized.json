@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Basement Infinity",
+    "codename": "The Core",
+    "theme": "Eternal Sound Source",
+    "location": "Beyond Time, Below All Realms",
+    "colorScheme": "#000000, #FF00FF",
+    "bio": "The sacred engine room of funk \u2014 the birthplace of the 7 Sparks and the Generator System. All frequencies pass through this realm before becoming audible.",
+    "visualStyle": "Endless black void with neon gridlines and pulsing waveforms.",
+    "knownFor": [
+      "7 Sparks",
+      "Soul Grid",
+      "Funk Prime Codes"
+    ],
+    "characters": [
+      "Mr. Booda Jones",
+      "The Architect of Funk",
+      "StarChild",
+      "Sir Nose",
+      "Uncle Jam",
+      "Prophet Voice"
+    ]
+  },
+  {
+    "name": "The Mothership",
+    "codename": "Vessel of Light",
+    "theme": "Soul Transportation & Awakening",
+    "location": "Above the Funkstream, always moving",
+    "colorScheme": "#FFFFFF, #00FFFF, #FF00FF",
+    "bio": "A living vessel captained by StarChild, used to awaken sleeping minds and deliver funk to starved dimensions. It's both a ship and a temple.",
+    "visualStyle": "Futuristic chrome architecture fused with Afrofuturistic neon glyphs and sound-reactive panels.",
+    "knownFor": [
+      "Awakening",
+      "Star Travel",
+      "Funk Ascension"
+    ],
+    "characters": [
+      "StarChild",
+      "The Savior",
+      "The Worm"
+    ]
+  },
+  {
+    "name": "The Silent Floor",
+    "codename": "Anti-Funk Zone",
+    "theme": "Suppression of Groove",
+    "location": "Underneath Crippled Soundscapes",
+    "colorScheme": "#333333, #990000",
+    "bio": "A dead zone where Sir Nose drains all rhythm and flavor. The place where groove goes to die. Entry requires psychic armor.",
+    "visualStyle": "Endless marble floors, dim red lights, and mirrored surfaces \u2014 emotionless, sterile, quiet.",
+    "knownFor": [
+      "Sir Nose's Lair",
+      "Lost Beats",
+      "Battle Grounds"
+    ],
+    "characters": [
+      "Sir Nose",
+      "Loard Veto",
+      "The Shadow Circuit"
+    ]
+  },
+  {
+    "name": "The Crate Keep",
+    "codename": "Archive of the Forgotten",
+    "theme": "Memory & Ancestral Sound",
+    "location": "Buried beneath every DJ booth",
+    "colorScheme": "#663300, #FFD700",
+    "bio": "A metaphysical library of every sample, breakbeat, and soulful whisper ever recorded \u2014 guarded by sentient turntables.",
+    "visualStyle": "Infinite dusty shelves, spinning vinyl in midair, glowing crate markers that hum when approached.",
+    "knownFor": [
+      "Lost Funk",
+      "Memory Retrieval",
+      "Sonic Time Travel"
+    ],
+    "characters": [
+      "The Archivist",
+      "Prophet Voice",
+      "Mr. Wiggles"
+    ]
+  },
+  {
+    "name": "The Feedback Chamber",
+    "codename": "Soul Sound Reactor",
+    "theme": "Creative Alchemy",
+    "location": "The Heart of the Soul Syncer",
+    "colorScheme": "#5500AA, #CCFF66",
+    "bio": "A volatile energy chamber where raw emotion is turned into usable sound-matter \u2014 the creation crucible for producers and beat-smiths.",
+    "visualStyle": "Pulsing plasma walls, suspended speakers emitting light, rings of floating notes forming atoms.",
+    "knownFor": [
+      "Beat Genesis",
+      "Lyric Sculpting",
+      "Soul Syncing"
+    ],
+    "characters": [
+      "The Architect of Funk",
+      "M.C.D.K.",
+      "Dr. Funkenstein"
+    ]
+  },
+  {
+    "name": "The Groove Wells",
+    "codename": "Emotional Reservoirs",
+    "theme": "Funk-Driven Emotion Pools",
+    "location": "Underneath Consciousness",
+    "colorScheme": "#00AAFF, #FF00AA",
+    "bio": "Massive underground reservoirs of concentrated emotional funk. Artists drink from these to feel what can\u2019t be spoken.",
+    "visualStyle": "Lakes of swirling neon with speakers submerged under the surface, glowing fish that emit vibes instead of light.",
+    "knownFor": [
+      "Emotional Funk",
+      "Deep Soul Access",
+      "Rebirth of Pain"
+    ],
+    "characters": [
+      "3Elvis",
+      "Uncle Jam",
+      "The Worm"
+    ]
+  }
+]
